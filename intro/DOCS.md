@@ -14,6 +14,7 @@ fmt.Println(b)
 ```
 
 ```sh
+var meng string
 meng = "Pony"   // Memberi value kepada var yang sudah di deklarasikan
 
 fmt.Println(meng)
