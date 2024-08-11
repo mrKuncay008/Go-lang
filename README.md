@@ -19,6 +19,8 @@ Anda dapat melakukan ini dengan menambahkan baris berikut pada $HOME/.profile at
 
 ```sh
 export PATH=$PATH:/usr/local/go/bin
+
+// Ini juga berlaku jika go not found command 
 ```
 
 3) Lalu chek Go version
